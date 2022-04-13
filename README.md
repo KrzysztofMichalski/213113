@@ -1,2 +1,2 @@
 # 213113
-Systemy Mobilne - prof. Stall
+Systemy Mobilne - prof. Stal
